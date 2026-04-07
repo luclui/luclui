@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi! I'm Lucas 👋  
 
-<!--
-**luclui/luclui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Enthusiast of web development.**
+<p align="center">
+ Sou programador de software e atualmente foco em desenvolvimento Back-End. Estudo na Universidade de São Paulo, onde participei de diversos projetos acadêmicos. Agora estou aprofundando meus estudos em diferentes liguagens Back-End. Nas horas vagas, aspiro a uma carreira de desenvolvedor. Sinta-se à vontade para conferir meus projetos e deixar uma estrela nos que você mais gostar!
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with me:
+<p align="center">
+  <a href="mailto:lucasvechiliggi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://www.instagram.com/lucas.liggi/">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+  <a href="https://https://br.linkedin.com/in/lucas-vechi-liggi/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p>
+
+---
