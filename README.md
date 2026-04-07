@@ -21,3 +21,14 @@
 </p>
 
 ---
+### 🖥️ Skills & Statistics:
+<p align="center">
+  <a href="https://www.github.com/luclui">
+    <img src="https://skillicons.dev/icons?i=html,css,c,mysql,firebase,git,github,ps,java&perline=3"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ry2903&show_icons=true&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ry2903&layout=compact&theme=tokyonight&hide=blade">
+</p>
