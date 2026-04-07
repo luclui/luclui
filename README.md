@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/lucas.liggi/">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
-  <a href="https://https://br.linkedin.com/in/lucas-vechi-liggi/">
+  <a href="https://br.linkedin.com/in/lucas-vechi-liggi/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
