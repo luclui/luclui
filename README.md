@@ -1,4 +1,4 @@
-# Hi! I'm Lucas 👋  
+# Oi! Eu sou Lucas 👋  
 
 **Enthusiast of web development.**
 <p align="center">
