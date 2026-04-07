@@ -7,7 +7,7 @@
 
 ---
 
-### 🔗 Connect with me:
+### 🔗 Me contate:
 <p align="center">
   <a href="mailto:lucasvechiliggi@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
