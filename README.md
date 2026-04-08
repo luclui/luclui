@@ -1,6 +1,5 @@
 # Oi! Eu sou Lucas 👋  
 
-**Enthusiast of web development.**
 <p align="center">
  Sou programador de software e atualmente foco em desenvolvimento Back-End. Estudo na Universidade de São Paulo, onde participei de diversos projetos acadêmicos. Agora estou aprofundando meus estudos em diferentes liguagens Back-End. Nas horas vagas, aspiro a uma carreira de desenvolvedor. Sinta-se à vontade para conferir meus projetos e deixar uma estrela nos que você mais gostar!
 </p>
@@ -21,7 +20,7 @@
 </p>
 
 ---
-### 🖥️ Skills & Statistics:
+### 🖥️ Conhecimentos:
 <p align="center">
   <a href="https://www.github.com/luclui">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,mysql,firebase,git,github&perline=3"/>
