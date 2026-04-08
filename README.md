@@ -20,7 +20,7 @@
 </p>
 
 ---
-### 🖥️ Skills & Statistics:
+### 🖥️ Conhecimentos:
 <p align="center">
   <a href="https://www.github.com/luclui">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,mysql,firebase,git,github&perline=3"/>
