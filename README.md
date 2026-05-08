@@ -1,7 +1,7 @@
 # Oi! Eu sou Lucas 👋  
 
 <p align="center">
- Sou programador de software e atualmente foco em desenvolvimento Back-End. Estudo na Universidade de São Paulo, onde participei de diversos projetos acadêmicos. Agora estou aprofundando meus estudos em diferentes liguagens Back-End. Nas horas vagas, aspiro a uma carreira de desenvolvedor. Sinta-se à vontade para conferir meus projetos e deixar uma estrela nos que você mais gostar!
+ Sou programador de software e atualmente foco em desenvolvimento Back-End. Estudo na Universidade de São Paulo, onde participei de diversos projetos acadêmicos. Agora estou aprofundando meus estudos em cibersegurança e diferentes liguagens Back-End. Sinta-se à vontade para conferir meus projetos e deixar uma estrela nos que você mais gostar!
 </p>
 
 ---
